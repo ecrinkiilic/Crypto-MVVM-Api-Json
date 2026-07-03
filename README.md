@@ -18,6 +18,15 @@ A simple cryptocurrency listing application built with **Swift** using the **MVV
 * URLSession
 * JSONDecoder
 
+
+
+  ## Screenshot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9289c29b-b8ee-4a10-9147-8da852319638" width="300" alt="App Screenshot">
+</p>
+
+
 ## Project Structure
 
 ```text
